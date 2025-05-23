@@ -7,7 +7,6 @@ function App() {
     <>
       <h1 style={{color:"red" , backgroundColor:"blue"}}>hola</h1>
       <Formulario/>
-      <Formulario/>
     </>
   )
 }
