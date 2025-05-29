@@ -1,9 +1,9 @@
 
 import './App.css'
-import Formulario from './Formulario'
-import MyButton from './MyButton'
-import AboutPage from './About'
-import Article from './Article'
+import Formulario from './components/Formulario'
+import MyButton from './components/MyButton'
+import AboutPage from './components/About'
+import Article from './components/Article'
 
 function App() {
   return (
